@@ -4,11 +4,12 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-пентестер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с завершения курса "Белый хакер" в SkillFactory. В данный момент прохожу обучение и собираю практические задания на GitHub, чтобы подготовить портфолио для поиска работы.
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+</a>
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
+Я начинающий пентестер, увлекающийся веб-пентестом. Мой путь в IT начался с курса "Белый хакер" от SkillFactory, и сейчас я активно изучаю различные аспекты безопасности информации.
+
 
 - :telescope: Прохожу курс пентестера в SkillFactory.
 
