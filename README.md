@@ -48,22 +48,10 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg?short_path=32b7a5b" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/PhpMyAdmin" target="_blank">
-    <img src="https://i.ibb.co/xXvRSxn/1.png" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
     <img src="https://i.ibb.co/0BkZpNB/pngaaa-com-2969123.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank">
-    <img src="https://i.ibb.co/kQXwCXs/pngwing-com-3.png" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank">
-    <img src="https://i.ibb.co/0sXyWsK/pngwing-com-4.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
-  </a>
 </div>
 
 ---
@@ -71,7 +59,27 @@
 ### 🛠 Инструменты:
 
 <div>
-  <!-- Здесь перечислите инструменты и программы, которыми вы пользуетесь -->
+  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank">
+    <img src="https://i.ibb.co/0sXyWsK/pngwing-com-4.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank">
+    <img src="https://i.ibb.co/kQXwCXs/pngwing-com-3.png" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/PhpMyAdmin" target="_blank">
+    <img src="https://i.ibb.co/xXvRSxn/1.png" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://i.ibb.co/QpFMPj2/premiere-pro.png" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://i.ibb.co/FDnYpTL/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://i.ibb.co/JdkQStv/after-effects.png" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://helpx.adobe.com/ru/media-encoder/using/overview-media-encoder-user-interface.html" target="_blank">
+    <img src="https://i.ibb.co/fG7qKtn/media-encoder.png" title="Media Encoder" alt="Media Encoder" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ---
