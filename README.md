@@ -24,10 +24,10 @@
 
   <div id="badges">
     <a href="https://t.me/KoTuK_OwO" target="_blank">
-      <img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/kotuk_owo" target="_blank">
-      <img src="https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white" width="40" height="40" alt="vk" />
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
@@ -36,7 +36,30 @@
 ### 💻 Технологии:
 
 <div>
-  <!-- Здесь перечислите технологии, с которыми вы знакомы -->
+  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg?short_path=32b7a5b" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/PhpMyAdmin" target="_blank">
+    <img src="https://i.ibb.co/xXvRSxn/1.png" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
+    <img src="https://i.ibb.co/0BkZpNB/pngaaa-com-2969123.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank">
+    <img src="https://i.ibb.co/kQXwCXs/pngwing-com-3.png" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank">
+    <img src="https://i.ibb.co/0sXyWsK/pngwing-com-4.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ---
