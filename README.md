@@ -4,11 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-</a>
-
-Я начинающий пентестер, увлекающийся веб-пентестом. Мой путь в IT начался с курса "Белый хакер" от SkillFactory, и сейчас я активно изучаю различные аспекты безопасности информации.
+Я начинающий веб-пентестер <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>. Мой путь в IT начался с курса "Белый хакер" от SkillFactory, и сейчас я активно изучаю различные аспекты безопасности информации.
 
 
 - :telescope: Прохожу курс пентестера в SkillFactory.
