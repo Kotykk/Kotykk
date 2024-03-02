@@ -7,7 +7,7 @@
 Я начинающий веб-пентестер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с завершения курса "Белый хакер" в SkillFactory. В данный момент прохожу обучение и собираю практические задания на GitHub, чтобы подготовить портфолио для поиска работы.
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 - :telescope: Прохожу курс пентестера в SkillFactory.
