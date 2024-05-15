@@ -1,26 +1,26 @@
-# Привет, меня зовут Юрий!
+# Hi, my name is Yuri!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я веб-пентестер <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>. Мой путь в IT начался с курса "Белый хакер" от SkillFactory, и сейчас я активно изучаю различные аспекты безопасности информации.
+I'm a web pentester <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>. My journey in IT started with the "White Hacker" course from SkillFactory, and now I am actively studying various aspects of information security. 
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Прохожу курс пентестера в SkillFactory.
+- :telescope: I'm taking a pentester course at SkillFactory. 
 
-- :seedling: Подтвержденные навыки теории и практики веб-пентестирования.
+- :seedling: Confirmed skills in the theory and practice of web pentesting. 
 
-- :zap: Готов к выходу на рынок труда.
+- :zap: Ready to enter the job market. 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KoTuK_OwO) [![VK Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/kotuk_owo)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KoTuK_OwO) [![VK Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/kotuk_owo)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media/социальные сети:
 
   <div id="badges">
     <a href="https://t.me/KoTuK_OwO" target="_blank">
@@ -37,7 +37,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology/Технологии:
 
 <div>
   <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
@@ -58,7 +58,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tooling/Инструменты:
 
 <div>
   <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank">
@@ -85,7 +85,7 @@
 
 ---
 
-### 💼 Платформы:
+### 💼 Platform/Платформы:
 
 <div>
   <a href="https://www.hackthebox.eu/" target="_blank">
@@ -104,7 +104,7 @@
   </a>
 </div>
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistics/статистика:
 
 <a href="https://www.github.com/kotykk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kotykk?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
