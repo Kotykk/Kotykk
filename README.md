@@ -4,8 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a web pentester <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>. My journey in IT started with the "White Hacker" course from SkillFactory, and now I am actively studying various aspects of information security. 
-
+I'm a web pentester <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>.
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
