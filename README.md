@@ -1,125 +1,91 @@
-# Hi, my name is Yuri!
-
----
-
-### :man_technologist: About me:
-
-I'm a web pentester <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></a>.
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto" alt="Banner"/>
 </p>
 
-- :telescope: I'm taking a pentester course at SkillFactory. 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+the+path+to+excellence+in+Cybersecurity" alt="Typing SVG" />
+  </a>
+</div>
 
-- :seedling: Confirmed skills in the theory and practice of web pentesting. 
+<img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" alt="Profile Pic"/>
 
-- :zap: Ready to enter the job market. 
+---
+<hr>
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KoTuK_OwO) [![VK Badge](https://img.shields.io/badge/-KoTuK_OwO-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/kotuk_owo)
+<h2 align="left">
+  Hi, I'm KoTuK 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving"/>
+</h2>
+
+I'm **KoTuK**, a Cybersecurity and Web Penetration Testing specialist with hands-on experience in security audits and vulnerability assessments. I develop custom tools for automating tests and actively contribute to projects that enhance IT infrastructure security.
+
+<details>
+  <summary><b>More about me</b></summary>
+  <ul>
+    <li><b>Name:</b> Yuri</li>
+    <li><b>Country:</b> Russia</li>
+    <li><b>Specialization:</b> Web Penetration Testing, Vulnerability Analysis, Security Tools Development</li>
+    <li><b>Experience:</b> Real-world projects, web application audits, bug hunting</li>
+  </ul>
+</details>
 
 ---
 
-### 🤝 Social media/социальные сети:
+<h2 id="present_status_en">Current Work</h2>
 
-  <div id="badges">
-    <a href="https://t.me/KoTuK_OwO" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/kotuk_owo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    </a>
-    <a href="https://discordapp.com/users/815312797155459093/" target="_blank">
-      <img src="https://i.ibb.co/0ccvSBV/discord.png" width="40" height="40" alt="Discord Badge"/>
-    </a>
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Status"/>
+
+- Conducting web application audits and identifying critical vulnerabilities  
+- Developing automation tools for security testing  
+- Contributing to projects that enhance IT infrastructure security  
+- Utilizing modern methodologies to tackle complex cybersecurity challenges
+
+`Update:` My experience and expertise are continuously growing, empowering me to confidently address professional challenges.
+
+---
+
+<h2 id="knowledge_skills" align="center">Knowledge & Skills</h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
+</div>
+
 
 ---
 
-### 💻 Technology/Технологии:
+<h2 id="github_stats_en">GitHub Stats 👨‍💻</h2>
 
-<div>
-  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png" alt="GitHub Stats Graph"/>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kotykk&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=00000000)](https://github.com/kotykk)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kotykk&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+
+<p align="left">
+  <a href="https://github.com/kotykk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotykk&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" alt="Top Languages" width="450"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg?short_path=32b7a5b" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
-    <img src="https://i.ibb.co/0BkZpNB/pngaaa-com-2969123.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" width="40" height="40"/>&nbsp;
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</div>
+</p>
 
 ---
-
-### 🛠 Tooling/Инструменты:
-
-<div>
-  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank">
-    <img src="https://i.ibb.co/0sXyWsK/pngwing-com-4.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank">
-    <img src="https://i.ibb.co/kQXwCXs/pngwing-com-3.png" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://en.wikipedia.org/wiki/PhpMyAdmin" target="_blank">
-    <img src="https://i.ibb.co/xXvRSxn/1.png" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://i.ibb.co/QpFMPj2/premiere-pro.png" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://i.ibb.co/FDnYpTL/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://i.ibb.co/JdkQStv/after-effects.png" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
-  <a href="https://helpx.adobe.com/ru/media-encoder/using/overview-media-encoder-user-interface.html" target="_blank">
-    <img src="https://i.ibb.co/fG7qKtn/media-encoder.png" title="Media Encoder" alt="Media Encoder" width="40" height="40"/>&nbsp;
- <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</div>
-
----
-
-### 💼 Platform/Платформы:
-
-<div>
-  <a href="https://www.hackthebox.eu/" target="_blank">
-    <img src="https://i.ibb.co/1Jr4Kx9/hack-the-box-for-business.jpg" title="HackTheBox" alt="HackTheBox" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://tryhackme.com/" target="_blank">
-    <img src="https://i.ibb.co/jTRMMYk/redteamcapstone-2.png" title="TryHackMe" alt="TryHackMe" width="40" height="40"/>&nbsp;
-  </a>
-  </a>
-  <a href="https://skillfactory.ru/cyber-security-etichnij-haker" target="_blank">
-    <img src="https://i.ibb.co/gyZKq6G/icon-1.png" title="SkillFactory" alt="SkillFactory" width="40" height="40"/>&nbsp;
-  </a>
- </a>
-  <a href="https://hackerone.com/bug-bounty-programs" target="_blank">
-    <img src="https://i.ibb.co/K9PYVJb/hackerone-logo-icon-170042.png" title="HackerOne" alt="HackerOne" width="40" height="40"/>&nbsp;
-  </a>
-</div>
-
-### ⚙️ GitHub Statistics/статистика:
-
-<a href="https://www.github.com/kotykk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kotykk?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kotykk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kotykk"><img src="https://github-readme-stats.vercel.app/api?username=kotykk&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="kotykk's GitHub stats" /></a>
-
-<a href="http://www.github.com/kotykk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kotykk&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kotykk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kotykk&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/kotykk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotykk&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
